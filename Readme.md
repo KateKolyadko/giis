@@ -4,7 +4,7 @@
 
 ## Условие 
 
-![image]()
+![image](https://github.com/KateKolyadko/giis/blob/master/pictures/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-05-14%20175546.png)
 
 ## Реализация
 
@@ -35,10 +35,10 @@
   - `end`: Конечная точка линии.
   - `debug_mode`: Включает вывод текущих координат пикселей для отладки.
 ## Скриншоты
-![image]()
+![image](https://github.com/KateKolyadko/giis/blob/master/pictures/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-05-14%20174929.png)
 
-![image]()
-![image]()
+![image](https://github.com/KateKolyadko/giis/blob/master/pictures/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-05-14%20175430.png)
+![image](https://github.com/KateKolyadko/giis/blob/master/pictures/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-05-14%20175444.png)
 
 
 
@@ -46,7 +46,7 @@
 # Лабораторная №2
 
 ## Условие 
-![image]()
+![image](https://github.com/KateKolyadko/giis/blob/master/pictures/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-05-14%20175557.png)
 
 
 ## Реализация
@@ -89,10 +89,10 @@
 
 ## Скриншоты
 
-![image]()
-![image]()
-![image]()
-![image]()
+![image](https://github.com/KateKolyadko/giis/blob/master/pictures/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-05-14%20180234.png)
+![image](https://github.com/KateKolyadko/giis/blob/master/pictures/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-05-14%20180219.png)
+![image](https://github.com/KateKolyadko/giis/blob/master/pictures/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-05-14%20180339.png)
+![image](https://github.com/KateKolyadko/giis/blob/master/pictures/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-05-14%20180357.png)
 
 
 
@@ -101,7 +101,7 @@
 # Лабораторная №3
 
 ## Условие 
-![image]()
+![image](https://github.com/KateKolyadko/giis/blob/master/pictures/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-05-14%20175608.png)
 
 
 ## Реализация
@@ -131,10 +131,10 @@ B-сплайны — это семейство кривых, которые об
   - `debug_mode`: Включает вывод текущих координат пикселей для отладки.
 
 ## Скриншоты
-![image]()
-![image]()
+![image](https://github.com/KateKolyadko/giis/blob/master/pictures/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-05-14%20180530.png)
+![image](https://github.com/KateKolyadko/giis/blob/master/pictures/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-05-14%20180546.png)
 
-
+![image](https://github.com/KateKolyadko/giis/blob/master/pictures/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-05-14%20180629.png)
 
 
 
@@ -144,7 +144,7 @@ B-сплайны — это семейство кривых, которые об
 
 ## Условие 
 
-![image]()
+![image](https://github.com/KateKolyadko/giis/blob/master/pictures/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-05-14%20181351.png)
 
 ## Реализация
 
@@ -179,8 +179,8 @@ B-сплайны — это семейство кривых, которые об
 Метод `draw_axes` создает графическое представление осей координат (X, Y, Z) в 3D-пространстве, позволяя пользователю увидеть ориентацию объектов в пространстве.
 
 ## Скриншоты
-![image]()
-![image]()
+![image](https://github.com/KateKolyadko/giis/blob/master/pictures/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-05-14%20181339.png)
+![image](https://github.com/KateKolyadko/giis/blob/master/pictures/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-05-14%20181458.png)
 
 
 
@@ -190,8 +190,8 @@ B-сплайны — это семейство кривых, которые об
 # Лабораторная №5, 6
 
 ## Условие 
-![image]()
-![image]()
+![image](https://github.com/KateKolyadko/giis/blob/master/pictures/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-05-14%20181729.png)
+![image](https://github.com/KateKolyadko/giis/blob/master/pictures/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-05-14%20181553.png)
 
 
 ## Реализация
@@ -269,8 +269,8 @@ B-сплайны — это семейство кривых, которые об
 ## Скриншоты
 
 
-![image]()
-![image]()
+![image](https://github.com/KateKolyadko/giis/blob/master/pictures/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-05-14%20182259.png)
+![image](https://github.com/KateKolyadko/giis/blob/master/pictures/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-05-14%20182404.png)
 
 
 
@@ -281,7 +281,7 @@ B-сплайны — это семейство кривых, которые об
 # Лабораторная №7
 
 ## Условие 
-![image]()
+![image](https://github.com/KateKolyadko/giis/blob/master/pictures/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-05-14%20181820.png)
 
 ## Реализация
 
@@ -331,6 +331,6 @@ B-сплайны — это семейство кривых, которые об
   - Для каждого треугольника, созданного в процессе триангуляции, вычисляется его центр окружности (циркумцентр).
   - Находятся соседи для каждого треугольника и создаются рёбра диаграммы Вороного, используя центры окружностей.
 ## Скриншоты
-![image]()
-![image]()
+![image](https://github.com/KateKolyadko/giis/blob/master/pictures/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-05-14%20182713.png)
+![image](https://github.com/KateKolyadko/giis/blob/master/pictures/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-05-14%20182331.png)
 
